@@ -10,12 +10,12 @@ Skills: C / C++ / Python
 - 🌱 I’m currently learning different algorithms used in Machine Learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aneeshcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aneesh-panchal-04611a1a1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aneeshpanchal)  
+[<img src='https://www.muckibu.de/wp-content/uploads/2018/10/Octocat.png' alt='github' height='40'>](https://github.com/Aneeshcoder)  [<img src='https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aneesh-panchal-04611a1a1)  [<img src='https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png' alt='instagram' height='40'>](https://www.instagram.com/aneeshpanchal)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeshcoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeshcoder&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneeshcoder&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneeshcoder&show_icons=true&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aneeshcoder)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aneeshcoder&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Aneeshcoder)  
