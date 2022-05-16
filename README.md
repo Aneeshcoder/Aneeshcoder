@@ -4,7 +4,7 @@
 
 I am a 2nd year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing. 
 
-Skills: C / C++ / Python 
+Skills: C / C++ / Python / MATLAB / Git
 
 - 🔭 I’m currently working on improving my skills as a Data Scientist 
 - 🌱 I’m currently learning different algorithms used in Machine Learning 
