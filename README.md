@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Aneesh Panchal
 #### I am Data Science and Machine Learning Aspirant
-![I am Data Science and Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
+![I am Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
 
 I am a 3rd year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing. 
 
 Skills: C / C++ / Python / MATLAB / Git
 
-- 🔭 I’m currently working on improving my skills as a Data Scientist 
+- 🔭 I’m currently working on improving my skills as a Deep Learning Engineer 
 - 🌱 I’m currently learning different algorithms used in Machine Learning 
 
 
