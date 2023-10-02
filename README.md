@@ -18,4 +18,4 @@ Skills: C / C++ / Python / MATLAB / Git
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aneeshcoder&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/Aneeshcoder)  
+![](https://komarev.com/ghpvc/?username=Aneeshcoder&style=plastic)
