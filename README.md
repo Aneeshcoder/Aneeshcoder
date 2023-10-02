@@ -2,7 +2,7 @@
 #### I am a Machine Learning Aspirant
 ![I am Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
 
-I am a 3rd year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing.<br/> 
+I am a final year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing.<br/> 
 
 Skills: C / C++ / Python / MATLAB / Git
 
