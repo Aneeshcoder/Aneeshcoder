@@ -1,6 +1,6 @@
 ### Hi, I am Aneesh Panchal
 
-I am an aspiring Mathematics Researcher &ensp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> 
+I am an aspiring Mathematics Researcher. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> 
 
 ![I am Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
 
@@ -11,7 +11,13 @@ I am a final year student at Delhi Technological University currently pursuing m
 
 *NOTE: Except of ghosts and gods
 
+### Call of Duty Mobile [Always]<br/>
+
 <img src="https://github.com/Aneeshcoder/Aneeshcoder/blob/main/call-of-duty-black-ops-4-nintendo-switch.jpg" width="1000px">
+
+  - ID Name: **Starkstan**
+  - Multiplayer #Games: **2533** (K/D: **1.8**)
+  - Battle Royale #Games: **603** (Wins: **242**)
 
 #### How to reach me:
 [<img src='https://www.muckibu.de/wp-content/uploads/2018/10/Octocat.png' alt='github' height='40'>](https://github.com/Aneeshcoder)  [<img src='https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aneesh-panchal-04611a1a1)  [<img src='https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png' alt='instagram' height='40'>](https://www.instagram.com/aneeshpanchal)  
@@ -25,7 +31,7 @@ I am a final year student at Delhi Technological University currently pursuing m
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br/><br/>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aneeshcoder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,6 +39,6 @@ I am a final year student at Delhi Technological University currently pursuing m
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aneeshcoder&theme=radical)  
 
-<img src="https://github.com/Aneeshcoder/Aneeshcoder/blob/main/privateinvestocat-modified.jpg" width="120px">
+<img src="https://github.com/Aneeshcoder/Aneeshcoder/blob/main/privateinvestocat-modified.png" width="120px">
 
 ![](https://komarev.com/ghpvc/?username=Aneeshcoder&style=plastic)
