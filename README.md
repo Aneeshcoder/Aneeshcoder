@@ -10,7 +10,7 @@ I am a final year student at Delhi Technological University currently pursuing m
   - 🌱 I’m currently learning Machine Learning, Finite Element Methods and Quantum Computing
   - ⚡ Why Maths: Because Maths is everything*
 
-*NOTE: Except of ghosts, gods and Savlon Boi
+***NOTE:** Except of Ghosts and Gods
 
 ### Call of Duty Mobile [Always]<br/>
 
