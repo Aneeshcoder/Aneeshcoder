@@ -1,6 +1,6 @@
 ### Hi, I am Aneesh Panchal
 
-I am an aspiring Mathematics Researcher. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/>
+I am an aspiring Mathematics Researcher. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/><br/>
 _Research Interests:_ Numerical Methods for ODE and PDE, Finite Element Methods, Machine Learning, Optimization Techniques, Nature Inspired Algorithms, Mathematical Modelling.
 
 ![I am Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
