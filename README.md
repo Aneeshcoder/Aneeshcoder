@@ -7,10 +7,10 @@ _Research Interests:_ Numerical Methods for ODE and PDE, Finite Element Methods,
 
 I am a final year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing.<br/>
   - 🔭 I’ve worked as research intern in Maths Dept. (IIT Delhi) and CALIBRE Group (DTU), India
-  - 🌱 I’m currently learning Machine Learning, Numerical Methods and Quantum Computing
+  - 🌱 I’m currently learning Machine Learning, Finite Element Methods and Quantum Computing
   - ⚡ Why Maths: Because Maths is everything*
 
-*NOTE: Except of ghosts and gods
+*NOTE: Except of ghosts, gods and Savlon Boi
 
 ### Call of Duty Mobile [Always]<br/>
 
