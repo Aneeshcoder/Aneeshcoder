@@ -38,7 +38,7 @@ I am a final year student at Delhi Technological University currently pursuing m
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aneeshcoder&show_icons=true&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aneeshcoder&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aneeshcoder&theme=radical)](https://git.io/streak-stats)
 
 <img src="https://github.com/Aneeshcoder/Aneeshcoder/blob/main/privateinvestocat-modified.png" width="120px">
 
