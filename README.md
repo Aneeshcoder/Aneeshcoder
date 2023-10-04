@@ -16,8 +16,8 @@ I am a final year student at Delhi Technological University currently pursuing m
 <img src="https://github.com/Aneeshcoder/Aneeshcoder/blob/main/call-of-duty-black-ops-4-nintendo-switch.jpg" width="1000px">
 
   - ID Name: **Starkstan**
-  - Multiplayer #Games: **2533** (K/D: **1.8**)
-  - Battle Royale #Games: **603** (Wins: **242**)
+  - [Grand Master] Multiplayer #Games: **2533** (K/D: **1.8**)
+  - [Legendary] Battle Royale #Games: **603** (Wins: **242**)
 
 #### How to reach me:
 [<img src='https://www.muckibu.de/wp-content/uploads/2018/10/Octocat.png' alt='github' height='40'>](https://github.com/Aneeshcoder)  [<img src='https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aneesh-panchal-04611a1a1)  [<img src='https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png' alt='instagram' height='40'>](https://www.instagram.com/aneeshpanchal)  
