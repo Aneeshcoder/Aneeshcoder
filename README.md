@@ -1,13 +1,13 @@
 ### Hi, I am Aneesh Panchal
 
-I am an aspiring Mathematics Researcher. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/><br/>
-_Research Interests:_ Numerical Methods for ODE and PDE, Finite Element Methods, Machine Learning, Optimization Techniques, Nature Inspired Algorithms, Mathematical Modelling.
+I am an aspiring Applied Mathematics Researcher. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/><br/>
+_Research Interests:_ Numerical Methods for ODE/PDE, Applied Linear Algebra, Soft Computing (Nature inspired algorithms), Optimization Techniques, Machine Learning, Neural Networks.
 
 ![I am Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
 
 I am a final year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing.<br/>
-  - 🔭 I’ve worked as research intern in Maths Dept. (IIT Delhi) and CALIBRE Group (DTU), India
-  - 🌱 I’m currently learning Machine Learning, Finite Element Methods and Quantum Computing
+  - 🔭 I’ve worked as research intern in Department of Mathematics, IIT Delhi, IN and CALIBRE Group, Department of COE, DTU, IN.
+  - 🌱 I’m currently learning Deep Learning, Differential theory for Singularly Perturbed Problems and Inverse Problems.
   - ⚡ Why Maths: Because Maths is everything*
 
 ***NOTE:** Except of Ghosts and Gods
