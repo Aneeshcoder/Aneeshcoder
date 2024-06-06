@@ -3,7 +3,7 @@
 I am an aspiring Applied Mathematics Researcher. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/><br/>
 _Research Interests:_ Numerical Methods for ODE/PDE, Applied Linear Algebra, Soft Computing (Nature inspired algorithms), Optimization Techniques, Machine Learning, Neural Networks.
 
-![I am Machine Learning Aspirant](https://www.analyticsinsight.net/wp-content/uploads/2020/03/machine-learning-840x485.png)
+![I am Machine Learning Aspirant](https://github.com/Aneeshcoder/Aneeshcoder/blob/main/CDS_image.jpg)
 
 I am a final year student at Delhi Technological University currently pursuing my BTech in Mathematics and Computing.<br/>
   - 🔭 I’ve worked as research intern in Department of Mathematics, IIT Delhi, IN and CALIBRE Group, Department of COE, DTU, IN.
