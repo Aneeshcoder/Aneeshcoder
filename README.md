@@ -7,7 +7,7 @@ _Research Interests:_ Numerical Methods for ODE/PDE, Applied Linear Algebra, Mac
 
 I am a Junior Research Fellow at Indian Institute of Science, Bangalore currently pursuing my PhD Engineering in Computational Data Science.<br/>
   - 🔭 I’ve worked as research intern in Department of Mathematics, IIT Delhi, IN and CALIBRE Group, Department of COE, DTU, IN.
-  - 🌱 I’m currently learning Deep Learning, Physics Informed Neural Network, Neural ODE and Applications to solving Singularly Perturbed Problems.
+  - 🌱 I’m currently working on different deep learning architectures such as Physics Informed Neural Network, Neural ODE and their Applications in solving Singularly Perturbed Problems.
   - ⚡ Why Maths: Because Maths is everything*
 
 ***NOTE:** Except of Ghosts and Gods
