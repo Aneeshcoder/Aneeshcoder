@@ -1,13 +1,13 @@
 ### Hi, I am Aneesh Panchal
 
-I am an Applied Mathematics Research Fellow. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/><br/>
-_Research Interests:_ Numerical Methods for ODE/PDE, Applied Linear Algebra, Machine Learning, Deep Learning.
+I am an Computational and Applied Mathematics Research Fellow. &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="27px"> <br/><br/>
+_Research Interests:_ Numerical Methods for ODE/PDE, Machine Learning, Deep Learning.
 
 ![I am Machine Learning Aspirant](https://github.com/Aneeshcoder/Aneeshcoder/blob/main/CDS_image.jpg)
 
 I am a Junior Research Fellow at Indian Institute of Science, Bangalore currently pursuing my PhD Engineering in Computational Data Science under Department of Computational and Data Sciences.<br/>
   - 🔭 I’ve worked as research intern in Department of Mathematics, IIT Delhi, IN and CALIBRE Group, Department of COE, DTU, IN.
-  - 🌱 I’m currently working on different deep learning architectures such as Physics Informed Neural Network, Neural ODE and their Applications in solving Singularly Perturbed Problems.
+  - 🌱 I’m currently working on different deep learning architectures such as Physics Informed Neural Network, Neural ODE and their Applications in various domains.
   - ⚡ Why Maths: Because Maths is everything*
 
 ***NOTE:** Except of Ghosts and Gods
